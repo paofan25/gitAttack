@@ -50,3 +50,4 @@ D:\RiderProjects\gitAttack\gitAttack\obj\Debug\net8.0-windows\refint\gitAttack.d
 D:\RiderProjects\gitAttack\gitAttack\obj\Debug\net8.0-windows\gitAttack.pdb
 D:\RiderProjects\gitAttack\gitAttack\obj\Debug\net8.0-windows\gitAttack.genruntimeconfig.cache
 D:\RiderProjects\gitAttack\gitAttack\obj\Debug\net8.0-windows\ref\gitAttack.dll
+D:\RiderProjects\gitAttack\gitAttack\obj\Debug\net8.0-windows\gitAttack.sourcelink.json
