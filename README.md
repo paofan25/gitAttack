@@ -19,7 +19,7 @@
 - `MainWindow.xaml(.cs)`：主界面及其逻辑。
 
 ## 快速开始
-**点击[tag](https://github.com/paofan25/gitAttack/releases/tag/v1.0.0)，下载第一项zip，解压之后找到exe文件并运行**
+**[点击tag，下载第一项zip，解压之后找到exe文件并运行](https://github.com/paofan25/gitAttack/releases/tag/v1.0.0)**
 
 以下六个步骤弃用
 
